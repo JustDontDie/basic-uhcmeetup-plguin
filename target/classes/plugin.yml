@@ -1,0 +1,9 @@
+name: UHCMeetup
+author: JustStayinAlive
+version: "0.1"
+main: com.gmail.justdontdiebusiness.uhcmeetup.UHCMeetup
+
+commands:
+  ping:
+      description: Display Your Ping
+      usage: /ping

@@ -1,0 +1,12 @@
+com\gmail\justdontdiebusiness\uhcmeetup\game\Game.class
+com\gmail\justdontdiebusiness\uhcmeetup\game\runnables\ScoreboardRunnable.class
+com\gmail\justdontdiebusiness\uhcmeetup\game\GameState.class
+com\gmail\justdontdiebusiness\uhcmeetup\game\Game$1.class
+com\gmail\justdontdiebusiness\uhcmeetup\game\runnables\CountdownRunnable.class
+com\gmail\justdontdiebusiness\uhcmeetup\game\runnables\BlocksPlacedRunnable.class
+com\gmail\justdontdiebusiness\uhcmeetup\UHCMeetup.class
+com\gmail\justdontdiebusiness\uhcmeetup\util\ItemBuilder.class
+com\gmail\justdontdiebusiness\uhcmeetup\listeners\PlayerListeners.class
+com\gmail\justdontdiebusiness\uhcmeetup\game\player\GamePlayer.class
+com\gmail\justdontdiebusiness\uhcmeetup\commands\PingCommand.class
+com\gmail\justdontdiebusiness\uhcmeetup\game\runnables\MessagesRunnable.class
